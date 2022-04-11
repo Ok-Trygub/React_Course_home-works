@@ -8,16 +8,10 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
 header {
     padding: 25px 0 0;
 }
-
-ul {
-    background-color: red;
-}
-
-
